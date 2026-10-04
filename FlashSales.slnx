@@ -47,21 +47,27 @@
   </Folder>
   <Folder Name="/tests/" />
   <Folder Name="/tests/Modules/">
+    <Project Path="tests/Modules/Modules.ArchitectureTests/Modules.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Modules.IntegrationTests/Modules.IntegrationTests.csproj" Id="09c52455-a1f7-4381-9b0f-e16a0cf8e8a4" />
   </Folder>
   <Folder Name="/tests/Modules/Catalog/">
+    <Project Path="tests/Modules/Catalog/Modules.Catalog.ArchitectureTests/Modules.Catalog.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Catalog/Modules.Catalog.IntegrationTests/Modules.Catalog.IntegrationTests.csproj" Id="89bcbb13-8926-49f8-9d08-90f3da52d763" />
   </Folder>
   <Folder Name="/tests/Modules/Launches/">
+    <Project Path="tests/Modules/Launches/Modules.Launches.ArchitectureTests/Modules.Launches.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Launches/Modules.Launches.IntegrationTests/Modules.Launches.IntegrationTests.csproj" Id="45b80365-00ac-4dcb-aba4-903bedaa5a1a" />
   </Folder>
   <Folder Name="/tests/Modules/Orders/">
+    <Project Path="tests/Modules/Orders/Modules.Orders.ArchitectureTests/Modules.Orders.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Orders/Modules.Orders.IntegrationTests/Modules.Orders.IntegrationTests.csproj" Id="c3d4e5f6-a7b8-4c9d-8e0f-1a2b3c4d5e6f" />
   </Folder>
   <Folder Name="/tests/Modules/Payments/">
+    <Project Path="tests/Modules/Payments/Modules.Payments.ArchitectureTests/Modules.Payments.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Payments/Modules.Payments.IntegrationTests/Modules.Payments.IntegrationTests.csproj" Id="d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a" />
   </Folder>
   <Folder Name="/tests/Modules/Users/">
+    <Project Path="tests/Modules/Users/Modules.Users.ArchitectureTests/Modules.Users.ArchitectureTests.csproj" />
     <Project Path="tests/Modules/Users/Modules.Users.IntegrationTests/Modules.Users.IntegrationTests.csproj" Id="d5ddb762-6cd8-4de7-8c3c-48ccdcc8c212" />
   </Folder>
 </Solution>
